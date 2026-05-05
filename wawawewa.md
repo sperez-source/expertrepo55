@@ -1,3 +1,11 @@
-This is the new content for the file wawawewa.md.
+# Hello World Code
 
-Created via GitHub integration.
+## Python
+```python
+print("Hello, World!")
+```
+
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
